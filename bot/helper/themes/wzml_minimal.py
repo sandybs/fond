@@ -226,14 +226,14 @@ class WZMLStyle:
     # ---------------------
 
     # USER Setting --> user_setting.py 
-    USER_SETTING = '''㊂ <b><u>User Settings :</u></b>
+    USER_SETTING = '''⚙️ <b><u>User Settings :</u></b>
         
 ╭<b> Name :</b> {NAME} ( <code>{ID}</code> )
 ├<b> Username :</b> {USERNAME}
 ├<b> Telegram DC :</b> {DC}
 ╰<b> Language :</b> {LANG}'''
 
-    UNIVERSAL = '''㊂ <b><u>Universal Settings : {NAME}</u></b>
+    UNIVERSAL = '''⚙️ <b><u>Universal Settings : {NAME}</u></b>
 
 ╭<b> YT-DLP Options :</b> <b><code>{YT}</code></b>
 ├<b> Daily Tasks :</b> <code>{DT}</code> per day
@@ -242,7 +242,7 @@ class WZMLStyle:
 ├<b> Save Mode :</b> <code>{SAVE_MODE}</code>
 ╰<b> User Bot PM :</b> <code>{BOT_PM}</code>'''
 
-    MIRROR = '''㊂ <b><u>Mirror/Clone Settings : {NAME}</u></b>
+    MIRROR = '''⚙️ <b><u>Mirror/Clone Settings : {NAME}</u></b>
 
 ╭<b> RClone Config :</b> <i>{RCLONE}</i>
 ├<b> Mirror Prefix :</b> <code>{MPREFIX}</code>
@@ -253,7 +253,7 @@ class WZMLStyle:
 ├<b> Total User TD(s) :</b> <i>{USERTD}</i>
 ╰<b> Daily Mirror :</b> <code>{DM}</code> per day'''
 
-    LEECH = '''㊂ <b><u>Leech Settings for {NAME}</u></b>
+    LEECH = '''⚙️ <b><u>Leech Settings for {NAME}</u></b>
 
 ╭<b> Daily Leech : </b><code>{DL}</code> per day
 ├<b> Leech Type :</b> <i>{LTYPE}</i>
